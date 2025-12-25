@@ -2,17 +2,17 @@
 ---
 ## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
+### Bloomberg Financial News Sentiment Analysis
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+My complete implementation of projects in [***Bloomberg Financial News Sentiment Analysis***]([http://web.stanford.edu/class/cs224n/](https://github.com/kietngwork/financial-news-sentiment-analysis)).
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/financial-news-sentiment-analysis)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**FinBERT-LSTM Model:** A 'winning' model model over Textblob and BERT when it is applied to predict the movement of stock prices based on price tendancy of the whole market (including Finance, Healthcare, Technology, Energy, Real Estate and Entertainment) ([GitHub](https://github.com/kietngwork/financial-news-sentiment-analysis).
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/finbert.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
@@ -24,7 +24,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Proactive Data Breach Risk Management in Healthcare
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
