@@ -4,6 +4,8 @@
 
 ### Bloomberg Financial News Sentiment Analysis
 
+My complete implementation of assignments and projects in [***Bloomberg Financial News Sentiment Analysis***](https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf).
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/financial-news-sentiment-analysis)
 
 **FinBERT-LSTM Model:** A 'winning' model over Textblob and BERT when it is applied to predict the movement of stock prices based on price tendancy of the whole market (including Finance, Healthcare, Technology, Energy, Real Estate and Entertainment) ([GitHub](https://github.com/kietngwork/financial-news-sentiment-analysis)).
