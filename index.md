@@ -37,6 +37,6 @@ My complete implementation of assignments and projects in [***Hit Songs Analysis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/spotify-hit-song-analysis)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/15gfesp7C_00FPQKu4XhKypK3RQf3oLoh)
 
-The analysis begins by framing the business problem and translating it into data-driven questions aligned with project objectives. Relevant data is then collected, cleaned, and prepared to ensure accuracy, consistency, and analytical readiness. Using **Python**, statistical techniques as **Numpy** and **Pandas**, and visualization libraries as **Seaborn** and **Matplotlib**, key patterns, trends, and relationships within the data are explored. The findings are interpreted and transformed into actionable insights that support informed decision-making.
+Using **Python**, the analysis begins by using libraries as **Numpy** and **Pandas** to collect, clean, and prepare data to ensure accuracy, consistency, and analytical readiness. Visualization libraries as **Seaborn** and **Matplotlib** then were used to identify key patterns, trends, and relationships within the data. The findings are ultimately interpreted and transformed into actionable insights that support informed musician decision-making.
 
 <center><img src="images/music.png"/></center>
