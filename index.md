@@ -25,8 +25,9 @@ My complete implementation of assignments and projects in [***Proactive Data Bre
 
 This project applies **text mining** and **natural language processing (NLP)** techniques to healthcare data breach reports to uncover hidden patterns, **classify breach severity**, and support **proactive risk management strategies**.
 
-The workflow begins with cleaning and preprocessing unstructured text data from **5,370 healthcare breach reports**, using **tokenization** and **lemmatization** to prepare the corpus for analysis. A **Logistic Regression model** is then implemented to predict breach severity based on the number of individuals affected. To deepen insight, advanced NLP methods including **Named Entity Recognition (NER)**, **Latent Dirichlet Allocation (LDA)**, and **BERTopic modeling** are applied to extract frequent entities such as **Protected Health Information (PHI)** and identify **dominant themes** including **ransomware attacks** and **email-based vulnerabilities**.
+The workflow begins with cleaning and preprocessing unstructured text data from **5,370** healthcare breach reports, using **tokenization** and **lemmatization** to prepare the corpus for analysis. A **Logistic Regression** model is then implemented to predict breach severity based on the number of individuals affected. 
 
+To deepen insight, advanced NLP methods including Named Entity Recognition **(NER)**, Latent Dirichlet Allocation **(LDA)**, and **BERTopic ** modeling are applied to extract frequent entities such as Protected Health Information (PHI) and identify dominant themes including ransomware attacks and email-based vulnerabilities.
 
 <center><img src="images/healthcare.png"/></center>
 
@@ -38,6 +39,6 @@ My complete implementation of assignments and projects in [***Hit Songs Analysis
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/spotify-hit-song-analysis)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/15gfesp7C_00FPQKu4XhKypK3RQf3oLoh)
 
-The analysis begins by **framing the business problem** and translating it into data-driven questions aligned with project objectives. Relevant data is then **collected, cleaned, and prepared** to ensure **accuracy**, **consistency**, and **analytical readiness**. Using **Python**, **statistical techniques**, and **data visualization**, key patterns, trends, and relationships within the data are explored. The findings are interpreted and transformed into actionable insights that support informed decision-making.
+The analysis begins by framing the business problem and translating it into data-driven questions aligned with project objectives. Relevant data is then collected, cleaned, and prepared to ensure accuracy, consistency, and analytical readiness. Using **Python**, statistical techniques as **Numpy** and **Pandas**, and visualization libraries as **Seaborn** and **Matplotlib**, key patterns, trends, and relationships within the data are explored. The findings are interpreted and transformed into actionable insights that support informed decision-making.
 
 <center><img src="images/music.png"/></center>
