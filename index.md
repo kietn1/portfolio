@@ -25,7 +25,7 @@ My complete implementation of assignments and projects in [***Proactive Data Bre
 
 <div style="text-align: justify">This project applies text mining and NLP techniques to healthcare breach reports to uncover patterns, classify breach severity, and support proactive risk management strategies. We began by cleaning and preprocessing unstructured textual data from 5,370 healthcare breach reports through tokenization and lemmatization. We then utilized Logistic Regression to predict the severity of incidents based on the number of individuals affected. Finally, we applied NER, LDA, and BERTopic modeling to identify frequent entities like Protected Health Information (PHI) and uncover dominant themes such as ransomware attacks and email vulnerabilities.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/healthcare.jpg"/></center>
 
 
 ---
