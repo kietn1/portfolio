@@ -1,3 +1,5 @@
+<center><img src="images/timeline.jpeg"/></center>
+
 # Portfolio
 ---
 ### Bloomberg Financial News: Sentiment Analysis using AI
