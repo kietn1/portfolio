@@ -1,4 +1,4 @@
-<center><img src="images/timeline.jpeg"/></center>
+<center><img src="images/timeline1.png"/></center>
 
 # Portfolio
 ---
