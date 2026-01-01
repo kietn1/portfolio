@@ -17,6 +17,17 @@ The study compares:
 <center><img src="images/finbert.jpeg"/></center>
 
 ---
+### Digital Media Store Sales Analytics
+
+My complete implementation of assignments and projects in [***Digital Media Store Sales Analytics***](https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file).
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file)
+[![Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?logo=powerbi&logoColor=white)](https://github.com/kietngwork/chinook-sales-dashboard/blob/main/Chinook%20Dashboard.pbix)
+
+
+I integrated multiple Chinook datasets to design a robust ERD, then developed an interactive Power BI dashboard that reveals actionable insights into sales performance, market dynamics, and customer behavior.
+
+---
 ### Hit Songs Analysis using Spotify Audio Features
 
 My complete implementation of assignments and projects in [***Hit Songs Analysis using Spotify Audio Features***](https://github.com/kietngwork/spotify-hit-song-analysis/blob/main/spotify_analysis_full_project.pdf).
