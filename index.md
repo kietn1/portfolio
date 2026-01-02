@@ -30,6 +30,15 @@ Using **Python**, the analysis begins by using libraries as **Numpy** and **Pand
 <center><img src="images/music.png"/></center>
 
 ---
+### BigQuery-Based IMDb Data Analytics and ML
+
+My complete implementation of assignments and projects in [***BigQuery-Based IMDb Data Analytics and ML***](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/IMDb_Final_Report.pdf).
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/imdb-big-data-analytics-ml)
+[![View Jupyter Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-orange?logo=Jupyter)](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/model_training.ipynb)
+[![View SQL Queries](https://img.shields.io/badge/SQL-View_Queries-lightgrey?logo=postgresql)](https://github.com/kietngwork/imdb-big-data-analytics-ml/tree/main/SQL%20queries)
+
+---
 ### Bloomberg Financial News: Sentiment Analysis using AI
 
 My complete implementation of assignments and projects in [***Bloomberg Financial News Sentiment Analysis***](https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf).
@@ -59,14 +68,6 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 
 <center><img src="images/breach3.png"/></center>
 
----
-### BigQuery-Based IMDb Data Analytics and ML
-
-My complete implementation of assignments and projects in [***BigQuery-Based IMDb Data Analytics and ML***](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/IMDb_Final_Report.pdf).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/imdb-big-data-analytics-ml)
-[![View Jupyter Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-orange?logo=Jupyter)](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/model_training.ipynb)
-[![View SQL Queries](https://img.shields.io/badge/SQL-View_Queries-lightgrey?logo=postgresql)](https://github.com/kietngwork/imdb-big-data-analytics-ml/tree/main/SQL%20queries)
 
 
 
