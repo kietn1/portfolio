@@ -9,8 +9,11 @@ My complete implementation of assignments and projects in [***Digital Media Stor
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file)
 [![Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?logo=powerbi&logoColor=white)](https://github.com/kietngwork/chinook-sales-dashboard/blob/main/Chinook%20Dashboard.pbix)
 
+Using **Erwin Data Modeler**, I designed a robust and normalized Entity-Relationship Diagram (ERD) to establish clean relationships and enforce data integrity. The modeled data was then used to develop an interactive **Power BI** dashboard that delivers actionable insights into:
 
-I integrated multiple Chinook datasets to design a robust ERD, then developed an interactive Power BI dashboard that reveals actionable insights into sales performance, market dynamics, and customer behavior.
+- Sales performance and revenue trends
+- Market dynamics across regions and media types
+- Customer behavior, including purchasing patterns and engagement
 
 <center><img src="images/port.png"/></center>
 
