@@ -1,7 +1,7 @@
 <center><img src="images/timeline2.png"/></center>
 
 # Portfolio
----
+
 ### Digital Media Store Sales Analytics
 
 My complete implementation of assignments and projects in [***Digital Media Store Sales Analytics***](https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file).
