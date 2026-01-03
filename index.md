@@ -74,6 +74,7 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 
 <center><img src="images/breach3.png"/></center>
 
+---
 # Skill & Certifications
 ---
 My work and training have focused on building practical analytical skills and industry-recognized certifications, outlined below.
