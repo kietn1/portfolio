@@ -42,7 +42,7 @@ We leverage **Google BigQuery** and **Google Cloud Platform** to process and ana
 
 We also built a simplified, Gemini-based model to illustrate how the prediction workflow operates:
 
-![model](https://github.com/user-attachments/assets/6211a223-f2d8-4eae-bf9d-33da6c9ccd9b)
+![gemini](https://github.com/user-attachments/assets/2e890eff-576e-4fd0-a5fa-64f2a12170bc)
 
 ---
 ### Bloomberg Financial News: Sentiment Analysis using AI
