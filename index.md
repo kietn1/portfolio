@@ -75,7 +75,8 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 <center><img src="images/breach3.png"/></center>
 
 # Skill & Certifications
-<img width="5760" height="3240" alt="gemini (1)" src="https://github.com/user-attachments/assets/c110e27f-5068-4706-ab0a-5feef3234e0d" />
+<img width="5760" height="1814" alt="image" src="https://github.com/user-attachments/assets/4e08b4f1-2457-4e9a-9712-dfbcd34da223" />
+
 
 
 
