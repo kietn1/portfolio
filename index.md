@@ -46,11 +46,20 @@ Using **Python**, the analysis begins by using libraries as **Numpy** and **Pand
 ---
 ### BigQuery-Based IMDb Data Analytics and ML
 
-My complete implementation of assignments and projects in [***BigQuery-Based IMDb Data Analytics and ML***](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/IMDb_Final_Report.pdf).
+My complete implementation of assignments and projects in
+<a href="https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/IMDb_Final_Report.pdf" target="_blank">
+<strong><em>BigQuery-Based IMDb Data Analytics and ML</em></strong>
+</a>.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/imdb-big-data-analytics-ml)
-[![View Jupyter Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-orange?logo=Jupyter)](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/model_training.ipynb)
-[![View SQL Queries](https://img.shields.io/badge/SQL-View_Queries-lightgrey?logo=postgresql)](https://github.com/kietngwork/imdb-big-data-analytics-ml/tree/main/SQL%20queries)
+<a href="https://github.com/kietngwork/imdb-big-data-analytics-ml" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
+<a href="https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/model_training.ipynb" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-View_Notebook-orange?logo=Jupyter" alt="View Jupyter Notebook">
+</a>
+<a href="https://github.com/kietngwork/imdb-big-data-analytics-ml/tree/main/SQL%20queries" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-View_Queries-lightgrey?logo=postgresql" alt="View SQL Queries">
+</a>
 
 We leverage **Google BigQuery** and **Google Cloud Platform** to process and analyze large-scale IMDb datasets, applying **XGBoost** and machine learning techniques to transform raw movie, cast, crew, and audience data into actionable, investment-focused insights.
 
