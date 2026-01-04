@@ -97,6 +97,11 @@ My work and training have focused on building practical analytical skills and in
   The Fundamentals of Digital Marketing – Google (2021)
 </a>
 
+---
+# Contact
+- **Email:** <a href="mailto:kietng.work@gmail.com" target="_blank" rel="noopener noreferrer">kietng.work@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/kietn1/" target="_blank" rel="noopener noreferrer">linkedin.com/in/kietn1</a>
+- **GitHub:** <a href="https://github.com/kietngwork" target="_blank" rel="noopener noreferrer">github.com/kietngwork</a>
 
 
 
