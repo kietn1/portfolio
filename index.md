@@ -4,9 +4,10 @@
 ---
 ### Digital Media Store Sales Analytics
 
+My complete implementation of assignments and projects in 
 <a href="https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file" target="_blank">
-My complete implementation of assignments and projects in <strong>Digital Media Store Sales Analytics</strong>
-</a>
+<strong>Digital Media Store Sales Analytics</strong>
+</a>.
 
 
 <a href="https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file" target="_blank">
