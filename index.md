@@ -11,9 +11,10 @@ My complete implementation of assignments and projects in
 
 <a href="https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
 <a href="https://github.com/kietngwork/chinook-sales-dashboard/blob/main/Chinook%20Dashboard.pbix" target="_blank">
   <img src="https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?logo=powerbi&logoColor=white" alt="View Power BI Dashboard">
-
+</a>
 
 Using **Erwin Data Modeler**, I designed a robust and normalized Entity-Relationship Diagram (ERD) to establish clean relationships and enforce data integrity. The modeled data was then used to develop an interactive **Power BI** dashboard that delivers actionable insights into:
 
