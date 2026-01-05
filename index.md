@@ -114,6 +114,7 @@ My work and training have focused on building practical analytical skills and in
 
 <center><img src="images/certification.png"/></center>
 
+**Certification:**
 - <a href="https://www.credly.com/badges/0a587708-097a-442d-bc96-761d3370d321" target="_blank" rel="noopener noreferrer">
   Cloud Computing Fundamentals – IBM (2026)
 </a>
@@ -134,11 +135,26 @@ My work and training have focused on building practical analytical skills and in
   The Fundamentals of Digital Marketing – Google (2021)
 </a>
 
-Microsoft Applied Skill Badges:
+**Microsoft Applied Skill Badges:**
 - <a href="https://learn.microsoft.com/en-us/users/kietnguyen-6256/achievements/fqbdza9x" target="_blank" rel="noopener noreferrer">
   Clean, transform, and load data in Power BI
 </a>
 
+- <a href="https://learn.microsoft.com/api/achievements/share/en-us/KietNguyen-6256/NMKB7XZF?sharingId=512DDE696505B53F" target="_blank" rel="noopener noreferrer">
+  Build your first data model and explore the data by using Power BI
+</a>
+
+- <a href="https://learn.microsoft.com/api/achievements/share/en-us/KietNguyen-6256/PG3HJVX4?sharingId=512DDE696505B53F" target="_blank" rel="noopener noreferrer">
+  Get data in Power BI
+</a>
+
+- <a href="https://learn.microsoft.com/api/achievements/share/en-us/KietNguyen-6256/ZDLGE8X2?sharingId=512DDE696505B53F" target="_blank" rel="noopener noreferrer">
+  Get started building with Power BI
+</a>
+
+- <a href="https://learn.microsoft.com/api/achievements/share/en-us/KietNguyen-6256/9RVMW44U?sharingId=512DDE696505B53F" target="_blank" rel="noopener noreferrer">
+  Discover data analysis
+</a>
 ---
 # Contact
 - **Email:** <a href="mailto:kietng.work@gmail.com" target="_blank" rel="noopener noreferrer">kietng.work@gmail.com</a>
