@@ -130,6 +130,10 @@ My work and training have focused on building practical analytical skills and in
   The Fundamentals of Digital Marketing – Google (2021)
 </a>
 
+- <a href="https://www.credly.com/badges/0a587708-097a-442d-bc96-761d3370d321" target="_blank" rel="noopener noreferrer">
+  Cloud Computing Fundamentals – IBM (2026)
+</a>
+
 ---
 # Contact
 - **Email:** <a href="mailto:kietng.work@gmail.com" target="_blank" rel="noopener noreferrer">kietng.work@gmail.com</a>
