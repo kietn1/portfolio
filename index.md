@@ -162,7 +162,7 @@ My work and training have focused on building practical analytical skills and in
 - **LinkedIn:** <a href="https://www.linkedin.com/in/kietn1/" target="_blank" rel="noopener noreferrer">linkedin.com/in/kietn1</a>
 - **GitHub:** <a href="https://github.com/kietngwork" target="_blank" rel="noopener noreferrer">github.com/kietngwork</a>
 
-
+- <a href="certifications/AIMMS.pdf" target="_blank">Modeling with AIMMS I – AIMMS (2025)</a>
 
 
 
