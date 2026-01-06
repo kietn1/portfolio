@@ -119,21 +119,15 @@ My work and training have focused on building practical analytical skills and in
   Cloud Computing Fundamentals – IBM (2026)
 </a>
 
-- <a href="https://github.com/kietngwork/portfolio/blob/master/certifications/AIMMS.pdf" target="_blank" rel="noopener noreferrer">
-  Modeling with AIMMS I – AIMMS (2025)
-</a>
+- <a href="certifications/AIMMS.pdf" target="_blank">Modeling with AIMMS I – AIMMS (2025)</a>
 
 - <a href="https://www.datacamp.com/certificate/DA0026428814346" target="_blank" rel="noopener noreferrer">
   Data Analyst – DataCamp (2024)
 </a>
 
-- <a href="https://github.com/kietngwork/portfolio/blob/master/certifications/CoStar.pdf" target="_blank" rel="noopener noreferrer">
-  CoStar Commercial Real Estate Analytics – CoStar Group (2024)
-</a>
+- <a href="certifications/CoStar.pdf" target="_blank">CoStar Commercial Real Estate Analytics – CoStar Group (2024)</a>
 
-- <a href="https://github.com/kietngwork/portfolio/blob/master/certifications/Google.pdf" target="_blank" rel="noopener noreferrer">
-  The Fundamentals of Digital Marketing – Google (2021)
-</a>
+- <a href="certifications/Google.pdf" target="_blank">The Fundamentals of Digital Marketing – Google (2021)</a>
 
 **Microsoft Applied Skill Badges:**
 - <a href="https://learn.microsoft.com/en-us/users/kietnguyen-6256/achievements/fqbdza9x" target="_blank" rel="noopener noreferrer">
@@ -162,7 +156,7 @@ My work and training have focused on building practical analytical skills and in
 - **LinkedIn:** <a href="https://www.linkedin.com/in/kietn1/" target="_blank" rel="noopener noreferrer">linkedin.com/in/kietn1</a>
 - **GitHub:** <a href="https://github.com/kietngwork" target="_blank" rel="noopener noreferrer">github.com/kietngwork</a>
 
-- <a href="certifications/AIMMS.pdf" target="_blank">Modeling with AIMMS I – AIMMS (2025)</a>
+
 
 
 
