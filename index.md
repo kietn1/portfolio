@@ -4,7 +4,7 @@
 
 My complete implementation of assignments and projects in
 <a href="https://github.com/kietn1/enterprise-healthcare-claims-operations-tableau/tree/main" target="_blank">
-<strong><em>Digital Media Store Sales Analytics</em></strong>
+<strong><em>Healthcare Claims Operations Tableau Dashboard</em></strong>
 </a>.
 
 <a href="https://github.com/kietn1/enterprise-healthcare-claims-operations-tableau/tree/main" target="_blank">
