@@ -65,6 +65,26 @@ Using **Python**, the analysis begins by using libraries as **Numpy** and **Pand
 <center><img src="images/music.png"/></center>
 
 ---
+### Proactive Data Breach Risk Management in Healthcare 
+
+My complete implementation of assignments and projects in
+<a href="https://github.com/kietngwork/healthcare-data-breach-risk-nlp/blob/main/healthcare_data_breach_risk_management_NLP_report.pdf" target="_blank">
+<strong><em>Proactive Data Breach Risk Management in Healthcare</em></strong>
+</a>.
+
+<a href="https://github.com/kietngwork/healthcare-data-breach-risk-nlp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
+
+This project applies **text mining** and **natural language processing (NLP)** techniques to healthcare data breach reports to uncover hidden patterns, classify breach severity, and support proactive risk management strategies.
+
+The workflow begins with cleaning and preprocessing unstructured text data from **5,370** healthcare breach reports, using **tokenization** and **lemmatization** to prepare the corpus for analysis. A **Logistic Regression** model is then implemented to predict breach severity based on the number of individuals affected. 
+
+To deepen insight, advanced NLP methods including Named Entity Recognition **(NER)**, Latent Dirichlet Allocation **(LDA)**, and **BERTopic** modeling are applied to extract frequent entities such as Protected Health Information (PHI) and identify dominant themes including ransomware attacks and email-based vulnerabilities.
+
+<center><img src="images/breach3.png"/></center>
+
+---
 ### BigQuery-Based IMDb Data Analytics and ML
 
 My complete implementation of assignments and projects in
@@ -107,26 +127,6 @@ The study compares:
 - **Industry-specific sentiment analysis** to test whether customization improves results
 
 <center><img src="images/finbert.jpeg"/></center>
-
----
-### Proactive Data Breach Risk Management in Healthcare 
-
-My complete implementation of assignments and projects in
-<a href="https://github.com/kietngwork/healthcare-data-breach-risk-nlp/blob/main/healthcare_data_breach_risk_management_NLP_report.pdf" target="_blank">
-<strong><em>Proactive Data Breach Risk Management in Healthcare</em></strong>
-</a>.
-
-<a href="https://github.com/kietngwork/healthcare-data-breach-risk-nlp" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
-</a>
-
-This project applies **text mining** and **natural language processing (NLP)** techniques to healthcare data breach reports to uncover hidden patterns, classify breach severity, and support proactive risk management strategies.
-
-The workflow begins with cleaning and preprocessing unstructured text data from **5,370** healthcare breach reports, using **tokenization** and **lemmatization** to prepare the corpus for analysis. A **Logistic Regression** model is then implemented to predict breach severity based on the number of individuals affected. 
-
-To deepen insight, advanced NLP methods including Named Entity Recognition **(NER)**, Latent Dirichlet Allocation **(LDA)**, and **BERTopic** modeling are applied to extract frequent entities such as Protected Health Information (PHI) and identify dominant themes including ransomware attacks and email-based vulnerabilities.
-
-<center><img src="images/breach3.png"/></center>
 
 ---
 # Skill & Certifications
