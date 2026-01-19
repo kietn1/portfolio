@@ -16,10 +16,6 @@ My complete implementation of assignments and projects in
 
 The dashboard is designed for enterprise stakeholders, including operations leaders and performance management teams, who require reliable, governed metrics and the ability to quickly identify operational bottlenecks across services, providers, and regions.
 
-- Sales performance and revenue trends
-- Market dynamics across regions and media types
-- Customer behavior, including purchasing patterns and engagement
-
 <center><img src="images/claims.png"/></center>
 
 ---
