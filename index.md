@@ -136,7 +136,7 @@ My work and training have focused on building practical analytical skills and in
   Cloud Computing Fundamentals – IBM (2026)
 </a>
 
-- <a href="https://mylearn.oracle.com/api/badges/metadata/ou/learning-path/become-an-oracle-data-platform-foundations-associate-2025/148510" target="_blank" rel="noopener noreferrer">
+- <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B9F958CC45AF12F23CC433E043D2EBDFB1983C224BA354BA48B4B4C9A9D502DC" target="_blank" rel="noopener noreferrer">
   Data Platform Foundations Associate – Oracle (2026)
 </a>
 
