@@ -1,5 +1,25 @@
 # Portfolio
 ---
+### Bloomberg Financial News: Sentiment Analysis using AI
+
+My complete implementation of assignments and projects in
+<a href="https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf" target="_blank">
+<strong><em>Bloomberg Financial News Sentiment Analysis</em></strong>
+</a>.
+
+<a href="https://github.com/kietngwork/financial-news-sentiment-analysis" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
+
+**FinBERT-LSTM Model:** A 'winning' model over Textblob and BERT when it is applied to predict the movement of stock prices based on price tendancy of the whole market (including Finance, Healthcare, Technology, Energy, Real Estate and Entertainment).
+
+The study compares:
+- A **general sentiment approach** applied across industries  
+- **Industry-specific sentiment analysis** to test whether customization improves results
+
+<center><img src="images/finbert.jpeg"/></center>
+
+---
 ### Healthcare Claims Operations Tableau Dashboard
 
 My complete implementation of assignments and projects in
@@ -81,26 +101,7 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 <center><img src="images/breach3.png"/></center>
 
 ---
-### Bloomberg Financial News: Sentiment Analysis using AI
 
-My complete implementation of assignments and projects in
-<a href="https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf" target="_blank">
-<strong><em>Bloomberg Financial News Sentiment Analysis</em></strong>
-</a>.
-
-<a href="https://github.com/kietngwork/financial-news-sentiment-analysis" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
-</a>
-
-**FinBERT-LSTM Model:** A 'winning' model over Textblob and BERT when it is applied to predict the movement of stock prices based on price tendancy of the whole market (including Finance, Healthcare, Technology, Energy, Real Estate and Entertainment).
-
-The study compares:
-- A **general sentiment approach** applied across industries  
-- **Industry-specific sentiment analysis** to test whether customization improves results
-
-<center><img src="images/finbert.jpeg"/></center>
-
----
 ### BigQuery-Based IMDb Data Analytics and ML
 
 My complete implementation of assignments and projects in
