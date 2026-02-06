@@ -147,6 +147,8 @@ My work and training have focused on building practical analytical skills and in
   Data Analyst – DataCamp (2024)
 </a>
 
+- <a href="https://www.sololearn.com/en/certificates/CC-I1AUYYJE" target="_blank">SQL Intermediate (2024)</a>
+
 - <a href="https://www.sololearn.com/en/certificates/CC-4YTHTUQN" target="_blank">Introduction to SQL (2024)</a>
 
 - <a href="certifications/CoStar.pdf" target="_blank">CoStar Commercial Real Estate Analytics – CoStar Group (2024)</a>
