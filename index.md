@@ -20,25 +20,6 @@ The study compares:
 <center><img src="images/finbert.jpeg"/></center>
 
 ---
-### Healthcare Claims Operations Tableau Dashboard
-
-My complete implementation of assignments and projects in
-<a href="https://github.com/kietn1/enterprise-healthcare-claims-operations-tableau/tree/main" target="_blank">
-<strong><em>Healthcare Claims Operations Tableau Dashboard</em></strong>
-</a>.
-
-<a href="https://github.com/kietn1/enterprise-healthcare-claims-operations-tableau/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
-</a>
-<a href="https://public.tableau.com/views/healthcare-claims-operations" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-View%20Dashboard-E97627?logo=tableau&logoColor=white" alt="View Tableau Dashboard">
-</a>
-
-The dashboard is designed for enterprise stakeholders, including operations leaders and performance management teams, who require reliable, governed metrics and the ability to quickly identify operational bottlenecks across services, providers, and regions.
-
-<center><img src="images/claims.png"/></center>
-
----
 ### Digital Media Store Sales Analytics
 
 My complete implementation of assignments and projects in
