@@ -83,6 +83,11 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 
 ---
 ### Enterprise Healthcare Claims Operations
+My complete implementation of assignments and projects in
+<a href="https://github.com/kietn1/enterprise-healthcare-claims-operations-tableau" target="_blank">
+<strong><em>Enterprise Healthcare Claims Operations</em></strong>
+</a>.
+
 <a href="https://github.com/kietn1/enterprise-healthcare-claims-operations-tableau" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
 </a>
