@@ -82,6 +82,18 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 <center><img src="images/breach3.png"/></center>
 
 ---
+### Enterprise Healthcare Claims Operations
+<a href="https://github.com/kietn1/enterprise-healthcare-claims-operations-tableau" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
+
+This project simulates an enterprise healthcare environment and delivers a Tableau dashboard built to support operational oversight at scale.
+
+The dashboard is designed for enterprise stakeholders, including operations leaders and performance management teams, who require reliable, governed metrics and the ability to quickly identify operational bottlenecks across services, providers, and regions.
+
+<center><img src="images/claim1.png"/></center>
+
+---
 
 ### BigQuery-Based IMDb Data Analytics and ML
 
