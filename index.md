@@ -22,7 +22,8 @@ The dashboard provides:
 **Tools:** Python, Streamlit, pandas, NumPy  
 *Portfolio demonstration uses simulated data.*
 
-<center><img src="images/inventory-dashboard.png" alt="Inventory forecasting dashboard showing stock levels and shortage risks"/></center>
+<center><img width="2880" height="1460" alt="image" src="https://github.com/user-attachments/assets/aee82059-d401-4833-8863-80c30d22275c" />
+</center>
 ---
 ### Bloomberg Financial News: Sentiment Analysis using AI
 
