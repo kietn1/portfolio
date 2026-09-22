@@ -24,6 +24,7 @@ The dashboard provides:
 
 <center><img width="2880" height="1460" alt="image" src="https://github.com/user-attachments/assets/aee82059-d401-4833-8863-80c30d22275c" />
 </center>
+
 ---
 ### Bloomberg Financial News: Sentiment Analysis using AI
 
