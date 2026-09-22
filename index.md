@@ -21,8 +21,13 @@ The dashboard provides:
 **Tools:** Python, Streamlit, pandas, NumPy  
 *Portfolio demonstration uses simulated data.*
 
-<center><img width="2880" height="1460" alt="image" src="https://github.com/user-attachments/assets/aee82059-d401-4833-8863-80c30d22275c" />
-</center>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/aee82059-d401-4833-8863-80c30d22275c"
+    alt="Inventory Forecasting and Operations Dashboard"
+    width="100%"
+  />
+</p>
 
 ---
 ### Bloomberg Financial News: Sentiment Analysis using AI
