@@ -8,6 +8,10 @@ A Python and Streamlit dashboard developed to support inventory planning during 
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
 </a>
 
+<a href="https://inventory-dashboard-dmrm33szio7yfzptxxogde.streamlit.app/">
+  <img src="https://img.shields.io/badge/Streamlit-View_Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white" alt="View Live Dashboard">
+</a>
+
 **Proactive Inventory Planning:** Helped identify potential shortages **1–2 weeks in advance**, enabling earlier replenishment and reducing reliance on last-minute warehouse alerts.
 
 The dashboard provides:
