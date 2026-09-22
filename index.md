@@ -1,5 +1,25 @@
 # Portfolio
 ---
+### SAMSUNG Inventory Forecasting & Operations Dashboard
+
+A Python and Streamlit dashboard developed to support inventory planning during my assignment at Samsung SDS. It standardizes reports from three warehouses and helps teams identify shortages before they affect order fulfillment.
+
+<a href="https://github.com/kietn1/samsung-inventory-dashboard)" target="_blank](https://github.com/kietn1/samsung-inventory-dashboard)">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
+
+**Proactive Inventory Planning:** Helped identify potential shortages **1–2 weeks in advance**, enabling earlier replenishment and reducing reliance on last-minute warehouse alerts.
+
+The dashboard provides:
+- **Inventory risk monitoring** and estimated stock coverage
+- **Order-level stock checks** to identify shortages and avoid double-counting
+- **Transaction lookup, reconciliation, and Excel exports** for operational follow-up
+
+**Tools:** Python, Streamlit, pandas, NumPy  
+*Portfolio demonstration uses simulated data.*
+
+<center><img src="images/inventory-dashboard.png" alt="Inventory forecasting dashboard showing stock levels and shortage risks"/></center>
+---
 ### Bloomberg Financial News: Sentiment Analysis using AI
 
 My complete implementation of assignments and projects in
