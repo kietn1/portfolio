@@ -7,7 +7,6 @@ A Python and Streamlit dashboard developed to support inventory planning during 
 <a href="https://github.com/kietn1/samsung-inventory-dashboard)" target="_blank](https://github.com/kietn1/samsung-inventory-dashboard)">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
 </a>
-
 <a href="https://inventory-dashboard-dmrm33szio7yfzptxxogde.streamlit.app/">
   <img src="https://img.shields.io/badge/Streamlit-View_Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white" alt="View Live Dashboard">
 </a>
